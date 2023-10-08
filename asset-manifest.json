@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactHookProject/static/css/main.e7468afd.css",
+    "main.js": "/ReactHookProject/static/js/main.f57b1ce7.js",
+    "index.html": "/ReactHookProject/index.html",
+    "main.e7468afd.css.map": "/ReactHookProject/static/css/main.e7468afd.css.map",
+    "main.f57b1ce7.js.map": "/ReactHookProject/static/js/main.f57b1ce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7468afd.css",
+    "static/js/main.f57b1ce7.js"
+  ]
+}
